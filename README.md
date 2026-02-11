@@ -43,7 +43,7 @@ Le système suit un pipeline de traitement précis :
 
 [Image of Convolutional Neural Network architecture for image classification]
 ## 📥 Téléchargement des ressources (Modèles et Data)
-* **Dataset :** [(https://drive.google.com/drive/folders/1CAZ5wcQ28jkaQyDFxYwy8bjVIHeliUbL?usp=sharing)]`
+* **Dataset :** [(https://drive.google.com/drive/folders/1CAZ5wcQ28jkaQyDFxYwy8bjVIHeliUbL?usp=sharing)]
 
 ---
 
