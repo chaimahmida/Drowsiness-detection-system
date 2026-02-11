@@ -1,0 +1,6 @@
+dash
+dash-bootstrap-components
+opencv-python
+numpy
+tensorflow
+pygame
